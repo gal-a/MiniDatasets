@@ -1,4 +1,4 @@
-Source Attribution
+Source Attribution:
 This dataset is a mirrored copy of the NASA Lithium‑Ion Battery Aging data originally produced by the NASA Ames Prognostics Center of Excellence (PCoE). The experiments include long‑term cycling of lithium‑ion cells under controlled conditions to study capacity fade and end‑of‑life behavior. The data was collected as part of NASA’s research into battery health monitoring and prognostics.
 The version used here is sourced from the Kaggle dataset maintained by Patrick Fleith:
 https://www.kaggle.com/datasets/patrickfleith/nasa-battery-dataset
